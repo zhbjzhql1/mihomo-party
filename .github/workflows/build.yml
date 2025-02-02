@@ -431,3 +431,5 @@ jobs:
           release-tag: v${{env.VERSION}}
           installers-regex: 'mihomo-party-windows-.*setup\.exe$'
           token: ${{ secrets.POMPURIN404_TOKEN }}
+
+
